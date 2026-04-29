@@ -1,0 +1,6 @@
+name=input('enter your name')
+mail=input('enter yout email')
+number=int(input('enter yout number'))
+print(name)
+print(mail)
+print(number)

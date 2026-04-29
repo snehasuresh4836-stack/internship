@@ -1,0 +1,45 @@
+EID,Last,First,Title,Hire Date,BID,Salary,Bonus
+00001,Miller,Jennifer,Account Rep,10/1/2001,B01,72000,0
+00002,Rubin,Thomas,Account Rep,9/1/2001,B01,82000,0
+00003,Smith,Peter,Account Rep,4/1/2006,B01,48000,1000
+00004,Coulter,Tony,Account Rep,3/7/2001,B01,90000,0
+00005,Gupta,Rajiv,Accountant,10/1/2005,B15,52000,5000
+00006,Williams-Martinez,Belinda,Manager,11/1/1995,B01,96000,0
+00007,Niedzwiecki,Edward,Accountant,11/1/1995,B01,88000,0  
+00008,Wang,Kenny,Trainee,9/1/2008,B01,38000,5000
+00009,Adams,Frank,Trainee,9/1/2007,B01,46000,0
+00010,Niedzwiecki,Stephanie,Manager,11/1/1999,B01,150000,10000
+00011,Mallory,Petee,Accountant,1/1/2005,B01,52000,3000
+00012,Messer,Hillary,Accountant,1/2/2006,B01,54000,3000
+00013,Fleming,James,Manager,11/1/1999,B12,100000,20000
+00020,Fisher,Charles,Account Rep,11/1/2001,B45,88000,0
+00021,Johnson,Barbara,Account Rep,10/1/2001,B45,106000,0
+00030,Miller,Jennifer,Account Rep,10/1/2003,B12,72000,0
+00032,Rubin,Thomas,Account Rep,9/1/2001,B45,82000,0
+00034,Smith,Peter,Account Rep,4/1/2006,B45,58000,500
+00035,Czarny,Tony,Account Rep,3/7/2001,B12,80000,0
+00033,Williams-Aikman,Valerie,Manager,11/1/2005,B12,96000,0
+00036,Niedzwiecki,Arnold,Accountant,11/1/1995,B12,88000,0  
+00040,Martinez,Pedro,Account Rep,9/1/2006,B12,48000,500
+00041,Adams,Jessica,Account Rep,10/1/2007,B45,46000,0
+00042,Niedzwiecki,Meredith,Manager,11/1/1999,B45,120000,0
+00043,Rokovky,Vladimir,Account Rep,1/1/2007,B46,172000,2000
+00044,Mallory,Jan,Accountant,10/1/2005,B50,52000,0
+00045,Messer,Amy,Manager,1/1/2003,B50,84000,0
+00055,Herbert,Arnold,Accountant,11/1/1995,B51,88000,0  
+00047,Martinez,Karine,Account Rep,9/1/2002,B51,48000,500
+00048,Banister,Jessica,Account Rep,10/1/2007,B45,46000,0
+00065,Rodes,Meredith,Manager,11/1/1999,B51,120000,0
+00061,Evans,Jan,Accountant,10/1/2005,B50,52000,5000
+00067,Adamson,James,Manager,11/1/1989,B01,120000,5000
+00068,Brown,Charles,Account Rep,11/1/2000,B01,88000,500
+00069,Johnson,Diane,Account Rep,10/1/2001,B01,96000,1000
+00071,Horak,Amy,Manager,1/1/2004,B51,84000,1000
+00081,Horak,Christine,Senior Account Rep,1/1/2004,B51,164000,10000
+00082,Gupta,Amlan,Manager,10/1/2004,B15,152000,15000
+00083,Banister,Gwen,Account Rep,10/1/1999,B15,46000,0
+00084,Adams,Gwen,Account Rep,10/1/1989,B15,86000,1000
+00085,Johnson,Karina,Account Rep,8/1/2006,B45,78000,0
+00086,Park,Karina,Account Rep,9/1/2001,B45,98000,0
+00087,Lee,Sue,Manager,9/1/1994,B45,198000,0
+00088,Miller,Betty,Account Rep,10/1/2008,B46,72000,0  
